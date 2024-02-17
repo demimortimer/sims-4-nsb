@@ -1,0 +1,49 @@
+.content {
+  max-width: 800px;
+  margin: 0 auto !important;
+}
+
+.mint {
+  color: rgba(115, 226, 183, 1);
+}
+
+.mint-border {
+  background-color: rgba(115, 226, 183, 0.5);
+  height: 5px;
+}
+
+.rose {
+  color: rgba(204, 0, 0, 1);
+}
+
+.yellow {
+  color: rgba(255, 217, 102, 1);
+}
+
+.grey {
+  color: rgba(153, 153, 153, 1);
+}
+
+.plum {
+  color: rgba(103, 78, 167, 1);
+}
+
+.orange {
+  color: rgba(230, 145, 56, 1);
+}
+
+.pink {
+  color: rgba(255, 197, 203, 1);
+}
+
+.peach {
+  color: rgba(255, 229, 180, 1);
+}
+
+.green {
+  color: rgba(147, 196, 125, 1);
+}
+
+.blue {
+  color: rgba(61, 133, 198, 1);
+}
